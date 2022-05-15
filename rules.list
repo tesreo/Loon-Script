@@ -8,8 +8,7 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,spotify.com
 
-
-## 抗 DNS 污染
+# 抗 DNS 污染
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
@@ -34,12 +33,15 @@ DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,tumblr
 DOMAIN-KEYWORD,twitch
 DOMAIN-KEYWORD,wordpress
-## 数字货币
+DOMAIN-KEYWORD,github
+
+# 数字货币
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,okx
 DOMAIN-KEYWORD,okex
 DOMAIN-KEYWORD,deribit
 DOMAIN-KEYWORD,greeks
+
 # Telegram
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
